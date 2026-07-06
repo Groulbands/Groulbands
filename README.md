@@ -5,10 +5,12 @@
 ### I build thoughtful web interfaces and grow into fullstack development
 
 <p>
-  <a href="https://github.com/Groulbands" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=Groulbands&style=flat-square&color=blue" alt="Profile views" /></a>
-  <a href="mailto:groulbands@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-groulbands%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email" /></a>
-  <a href="https://t.me/Groulbands" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-@Groulbands-blue?style=flat-square&logo=telegram" alt="Telegram" /></a>
+  <a href="mailto:groulbands@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-%23d8ad68?logo=gmail&logoColor=%23f3dfbd" alt="Email" /></a>
+  <a href="https://t.me/Groulbands" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-%23d8ad68?logo=telegram&logoColor=%23f3dfbd&link=%40Groulbands" alt="Telegram" /></a>
+  <a href="https://github.com/Groulbands" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=Groulbands&color=d8ad68" alt="Profile views" /></a>
 </p>
+
+
 
 </div>
 
@@ -126,10 +128,9 @@
 ---
 
 ## Контакты
-
 <p>
-  <a href="https://t.me/Groulbands" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-@Groulbands-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="mailto:groulbands@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-groulbands%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://t.me/Groulbands" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-@Groulbands-d8ad68?style=for-the-badge&logo=telegram&logoColor=f3dfbd" alt="Telegram" /></a>
+  <a href="mailto:groulbands@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-groulbands%40gmail.com-d8ad68?style=for-the-badge&logo=gmail&logoColor=f3dfbd" alt="Email" /></a>
 </p>
 
 ---
